@@ -16,10 +16,8 @@ Example 1:
 
 - How to iterate through a nested list
 - How to find max and min number
+- Lists Data structure - see my [Lists Repo](https://github.com/lucadatasolutions/python-dsa-learning/edit/main/data-structures/lists/lists.md)
 
-## Python Data Types: Lists and Stacks
-
-### Lists: Are 
 
 
 
