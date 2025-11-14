@@ -7,9 +7,9 @@ You can pick up two integers from two different arrays (each array picks one) an
 Retrurn the ***maxiumum distance***. 
 
 Example 1:  
-    Input: arrays = [[1,2,3], [4,5], [1,2,3]]  <br />
-    Output: 4 <br />
-    Explantation: One way to reach the maxiumum distance 4 is to pick 1 in the first or third array and pick 5 in the second array.
+   - Input: arrays = [[1,2,3], [4,5], [1,2,3]]  <br />
+   - Output: 4 <br />
+   - Explantation: One way to reach the maxiumum distance 4 is to pick 1 in the first or third array and pick 5 in the second array.
 
 
 
