@@ -21,7 +21,7 @@ Example 1:
 
 Solution 1: My First Solution
 
-First thoughts: 
+First thoughts: We need to traverse through the nested list. We can do this in two proposed ways. Using a recursive function or using Stack (iterative approach) 
 
 
 
