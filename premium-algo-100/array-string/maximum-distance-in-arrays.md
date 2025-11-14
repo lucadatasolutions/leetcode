@@ -14,9 +14,14 @@ Example 1:
 
 ## Required Learning:
 
-- How to iterate through a nested list
-- How to find max and min number
 - Lists Data structure - see my [Lists Repo](https://github.com/lucadatasolutions/python-dsa-learning/edit/main/data-structures/lists/lists.md)
+
+
+## Solution:
+
+Solution 1: My First Solution
+
+First thoughts: 
 
 
 
