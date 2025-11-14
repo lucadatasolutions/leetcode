@@ -12,4 +12,15 @@ Example 1:
    - Explantation: One way to reach the maxiumum distance 4 is to pick 1 in the first or third array and pick 5 in the second array.
 
 
+## Required Learning:
+
+- How to iterate through a nested list
+- How to find max and min number
+
+## Python Data Types: Lists and Stacks
+
+### Lists: Are 
+
+
+
 
